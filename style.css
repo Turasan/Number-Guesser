@@ -1,0 +1,33 @@
+.header{
+    font-size: 3.5rem;
+    color: #fff;
+}
+.readMe{
+    font-size: 2rem;
+    color: #fff;
+}
+.randomNumber{
+    font-size: 3rem;
+    color: #fff;
+}
+
+.buttons{
+    border: 0.2rem solid #fff;
+}
+.compNumber{
+    border: 0.2rem solid #fff;   
+}
+.btn{
+    width: 8%;
+    height: 13vh;
+    color: #fff;
+    font-size: 2.3rem;
+}
+
+.result{
+     font-size: 1.5rem; 
+     color: #fff;
+}
+h3{
+    color: white;
+}
